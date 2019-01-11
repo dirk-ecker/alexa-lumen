@@ -1,0 +1,24 @@
+{
+  "name": "alexa-lumen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "alexa",
+    "lumen"
+  ],
+  "author": "Dirk Ecker",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^5.2.0"
+  },
+  "dependencies": {
+    "alexa-sdk": "^1.0.25",
+    "jsdom": "^11.8.0",
+    "production": "0.0.2"
+  }
+}
